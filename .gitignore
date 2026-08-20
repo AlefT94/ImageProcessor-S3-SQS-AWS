@@ -1,0 +1,14 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+
+
+## AWS
+.aws/
+*.pem
+
+## Visual Studio
+.vs/
+*.vscode/

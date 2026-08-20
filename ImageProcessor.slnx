@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ImageProcessor.Processor/ImageProcessor.Processor.csproj" />
+  <Project Path="ImageProcessor.Uploader/ImageProcessor.Uploader.csproj" />
+</Solution>

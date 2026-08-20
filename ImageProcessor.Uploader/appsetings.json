@@ -1,0 +1,7 @@
+{
+  "AWS": {
+    "Region": "us-east-1",
+    "BucketName": "BucketName",
+    "QueueUrl": "QUEUE_URL"
+  }
+}
